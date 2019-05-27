@@ -46,22 +46,43 @@ flutter:
   #  - images/a_dot_ham.jpeg
 
   assets:
-    - assets/images/donat_maizena.jpg
-    - assets/images/rolade_tahu_bayam.jpg
-    - assets/images/pancake_mangga_beku.jpg
-    - assets/images/tahu_pok_pok_krispi_renyah.jpg
-    - assets/images/samosa.jpg
-    - assets/images/nasi_bakar_tuna.jpg
-    - assets/images/kupat_tahu.jpg
-    - assets/images/es_pisang_ijo.jpg
-    - assets/images/gulai_lidah_sapi.jpg
-    - assets/images/capcay_jamur_saus_tiram.jpg
-    - assets/images/asem_asem_daging.jpg
-    - assets/images/sup_iga_kambing.jpg
-    - assets/images/tahu_lada_hitam.jpg
-    - assets/images/tahu_walik_aci.jpg
-    - assets/images/tumis_ayam_sayuran.jpg
-    - assets/images/tumis_tahu_goreng_teriyaki.jpg
+    - assets/images/breakfast/donat_maizena.jpg
+    - assets/images/breakfast/rolade_tahu_bayam.jpg
+    - assets/images/breakfast/pancake_mangga_beku.jpg
+    - assets/images/breakfast/tahu_pok_pok_krispi_renyah.jpg
+    - assets/images/breakfast/samosa.jpg
+    - assets/images/breakfast/nasi_bakar_tuna.jpg
+    - assets/images/breakfast/kupat_tahu.jpg
+    - assets/images/breakfast/es_pisang_ijo.jpg
+    - assets/images/breakfast/gulai_lidah_sapi.jpg
+    - assets/images/breakfast/capcay_jamur_saus_tiram.jpg
+    - assets/images/breakfast/asem_asem_daging.jpg
+    - assets/images/breakfast/sup_iga_kambing.jpg
+    - assets/images/breakfast/tahu_lada_hitam.jpg
+    - assets/images/breakfast/tahu_walik_aci.jpg
+    - assets/images/breakfast/tumis_ayam_sayuran.jpg
+    - assets/images/breakfast/tumis_tahu_goreng_teriyaki.jpg
+
+    - assets/images/dessert/apem_pandan.jpg
+    - assets/images/dessert/cookies_choco_chips.jpg
+    - assets/images/dessert/cookies_choco_pandan.jpg
+    - assets/images/dessert/cookies_cokelat.jpg
+    - assets/images/dessert/dragon_sticky_rice.jpg
+    - assets/images/dessert/ketan_lapis_sarikaya.jpg
+    - assets/images/dessert/klappertaart_kukus.jpg
+    - assets/images/dessert/nagasari.jpg
+    - assets/images/dessert/pisang_goreng_lapis_kelapa_muda.jpg
+    - assets/images/dessert/ropang_isi_apel.jpg
+    - assets/images/dessert/ropang_isi_pisang.jpg
+    - assets/images/dessert/roti_jala_durian.jpg
+    - assets/images/dessert/serabi_manis.jpg
+    - assets/images/dessert/sop_buah_yogurth.jpg
+    - assets/images/dessert/srikaya_roti_tawar.jpg
+    - assets/images/dessert/ubi_goreng_lapis_kelapa.jpg
+
+
+    - assets/breakfast.json
+    - assets/desert.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
